@@ -1,6 +1,7 @@
 using Microsoft.AspNetCore.Mvc;
 using Newtonsoft.Json;
 using System.Text;
+using UCCS.Models;
 
 namespace UCSB.Controllers
 {

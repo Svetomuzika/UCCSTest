@@ -2,7 +2,7 @@ using UCSB.Logging;
 
 var builder = WebApplication.CreateBuilder(args);
 
-builder.Logging.AddFile(Path.Combine(Directory.GetCurrentDirectory(), "logger.txt"));
+builder.Logging.AddFile(Path.Combine(Directory.GetCurrentDirectory(), "Logging/logger.txt"));
 //builder.Logging.AddFilter("Microsoft", LogLevel.None);
 
 // Add services to the container.

@@ -1,10 +1,7 @@
-﻿using Microsoft.EntityFrameworkCore;
-using Microsoft.EntityFrameworkCore.Infrastructure;
-using Microsoft.EntityFrameworkCore.Storage;
-using UCSB.Controllers;
+﻿using UCSB.Controllers;
 using UCSB.Models;
 
-namespace UCSB
+namespace UCCS.Models
 {
     public static class CountToDB
     {

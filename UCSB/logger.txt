@@ -1,5 +1,0 @@
-Now listening on: https://localhost:7080
-Now listening on: http://localhost:5080
-Application started. Press Ctrl+C to shut down.
-Hosting environment: Development
-Content root path: C:\Users\sozon\Desktop\UCSB\UCSB\UCSB\
